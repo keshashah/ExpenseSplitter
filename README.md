@@ -11,18 +11,28 @@ Features:
 =========
 
 Add Trips
+
 Add Persons to a trip (from contacts/new)
+
 Add Expenses
+
 Calculate Expenses
+
 Send Email/SMS to debtors
+
 Can keep track of several trips
+
 Multiple currency -each trip as well as each expense
+
 Calculate and add interest (if any)
+
 Collaborative adding expenses for a trip
+
 Multiple payers for a single expense
+
 Export option - XML/Excel/.csv file
+
 Support Payment Gateway to tranfer funds.
+
 Clear debt to indicate reimbursed.
-
-
 
